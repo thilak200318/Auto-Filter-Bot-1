@@ -25,9 +25,7 @@
 
 # Auto Filter Bot v1
 
-Contect [Click Here](https://telegram.dog/mrk_yt)
-
-join channel [Click Here](https://telegram.dog/mo_tech_yt)
+[![MoTechYT](https://img.shields.io/badge/Connect-Telegram-red?style=flat&logo=telegram)](https://telegram.dog/Mrk_yt)
 
 
 ## Deploy
@@ -48,3 +46,12 @@ TG_BOT_TOKEN - [Click Here](https://telegram.dog/BotFather)
 TG_USER_SESSION - [Click Here](https://repl.it/@prgofficial/String-Gen)
 
 
+
+
+[![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/usetgxbot)  or  [![MoTechYT](https://img.shields.io/badge/MoTech-Support-red?style=flat&logo=MyTelegramorg)](my.telegram.org)
+
+[![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/ChannelIDHEXbot)
+
+[![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/BotFather) 
+
+[![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/PyrogramStringBot)  or  [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=Google)](https://repl.it/@prgofficial/String-Gen)
