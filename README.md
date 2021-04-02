@@ -37,21 +37,21 @@
 
 ## Configs
 
-APP_ID & API_HASH - [Click Here](https://telegram.dog/usetgxbot)
+ - [Click Here](https://telegram.dog/usetgxbot)
 
-MAINCHANNEL_ID - [Click Here](https://telegram.dog/ChannelIDHEXbot)
+ - [Click Here](https://telegram.dog/ChannelIDHEXbot)
 
-TG_BOT_TOKEN - [Click Here](https://telegram.dog/BotFather)
+ - [Click Here](https://telegram.dog/BotFather)
 
-TG_USER_SESSION - [Click Here](https://repl.it/@prgofficial/String-Gen)
-
-
+ - [Click Here](https://repl.it/@prgofficial/String-Gen)
 
 
-[![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/usetgxbot)  or  [![MoTechYT](https://img.shields.io/badge/MoTech-Support-red?style=flat&logo=MyTelegramorg)](my.telegram.org)
 
-[![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/ChannelIDHEXbot)
 
-[![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/BotFather) 
+APP ID & API HASH :- [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/usetgxbot)  or  [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=Google)](https://my.telegram.org/auth)
 
-[![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/PyrogramStringBot)  or  [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=Google)](https://repl.it/@prgofficial/String-Gen)
+MAINCHANNEL ID    :- [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/ChannelIDHEXbot)
+
+TG BOT TOKEN      :- [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/BotFather) 
+
+TG USER SESSION   :- [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/PyrogramStringBot)  or  [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=Google)](https://repl.it/@prgofficial/String-Gen)
