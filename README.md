@@ -1,4 +1,4 @@
-# Auto Filter Bot
+# Auto Filter Bot v1
 
 <p align="center">
   <a href="https://www.python.org">
@@ -23,7 +23,7 @@
 [![MoTechYT](https://img.shields.io/badge/MoTech-Support-red?style=flat&logo=telegram)](https://telegram.dog/Mo_Tech_Channel)  [![TroJanz](https://img.shields.io/badge/Youtube-channel-red?style=flat&logo=Youtube)](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 
-# Auto Filter Bot V2
+# Auto Filter Bot v1
 
 Contect [Click Here](https://telegram.dog/mrk_yt)
 
