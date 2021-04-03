@@ -37,10 +37,14 @@
 
 ## Configs
 
-APP ID & API HASH :- [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/usetgxbot) or [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=Google)](https://my.telegram.org/auth)
+APP ID & API HASH :-
+[![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/usetgxbot) or [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=Google)](https://my.telegram.org/auth)
 
-MAINCHANNEL ID    :- [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/ChannelIDHEXbot)
+MAINCHANNEL ID    :-
+[![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/ChannelIDHEXbot)
 
-TG BOT TOKEN      :- [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/BotFather) 
+TG BOT TOKEN      :-
+[![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/BotFather) 
 
-TG USER SESSION   :- [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/PyrogramStringBot) or [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=Google)](https://repl.it/@prgofficial/String-Gen)
+TG USER SESSION   :-
+[![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/PyrogramStringBot) or [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=Google)](https://repl.it/@prgofficial/String-Gen)
