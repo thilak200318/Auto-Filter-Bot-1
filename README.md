@@ -52,3 +52,10 @@ TG BOT TOKEN      :-
 TG USER SESSION   :-
 
 [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/PyrogramStringBot) or [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=Google)](https://repl.it/@prgofficial/String-Gen)
+
+
+## You can check the video tutorial on how to deploy
+
+[Click here to see tutorial video](https://youtu.be/d_oX4b7ucWM)
+
+Thanks to [MoTectYT](https://telegram.dog/MO_TECH_YT) and [MRK YT](https://telegram.dog/MRK_YT) for the video
