@@ -37,22 +37,13 @@
 
 ## Configs
 
-APP ID & API HASH :-
+APP ID & API HASH :- [Click Here](https://telegram.dog/usetgxbot) or [Click Here](https://my.telegram.org/auth)
 
-[![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/usetgxbot) or [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=Google)](https://my.telegram.org/auth)
+MAINCHANNEL ID    :- [Click Here](https://telegram.dog/ChannelIDHEXbot)
 
-MAINCHANNEL ID    :-
+TG BOT TOKEN      :- [Click Here](https://telegram.dog/BotFather) 
 
-[![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/ChannelIDHEXbot)
-
-TG BOT TOKEN      :-
-
-[![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/BotFather) 
-
-TG USER SESSION   :-
-
-[![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/PyrogramStringBot) or [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=Google)](https://repl.it/@prgofficial/String-Gen)
-
+TG USER SESSION   :- [Click Here](https://telegram.dog/PyrogramStringBot) or[Click Here](https://repl.it/@prgofficial/String-Gen)
 
 ## You can check the video tutorial on how to deploy
 
