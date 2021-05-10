@@ -37,7 +37,7 @@
 
 ## Configs
 
-APP ID & API HASH :- [Click Here](https://telegram.dog/usetgxbot) or [Click Here](https://my.telegram.org/auth)
+APP ID & API HASH :- [Click Here](https://telegram.dog/UseTGSBot) or [Click Here](https://my.telegram.org/auth)
 
 MAINCHANNEL ID    :- [Click Here](https://telegram.dog/ChannelIDHEXbot)
 
