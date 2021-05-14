@@ -20,10 +20,20 @@
 
 [![TroJanz](https://img.shields.io/badge/MoTechYT-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/Mo_Tech_YT)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MoTechYT](https://img.shields.io/badge/MoTech-Support-red?style=flat&logo=telegram)](https://telegram.dog/Mo_Tech_Channel)  [![TroJanz](https://img.shields.io/badge/Youtube-channel-red?style=flat&logo=Youtube)](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)  
+[![MoTechYT](https://img.shields.io/badge/MoTech-Support-red?style=flat&logo=telegram)](https://telegram.dog/Mo_Tech_YT)  [![TroJanz](https://img.shields.io/badge/Youtube-channel-red?style=flat&logo=Youtube)](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 
 # Auto Filter Bot v1
+
+#### You can call this as an Auto Filter Bot if you like :D
+#### Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
+
+## How to use the bot
+* Add user account to your channel !
+* Add bot to group with admin rights.
+* Deploy the bot.
+* Once deployed and bot is started, send a message to channel (must do step)
+* Bot will work now :)
 
 [![MoTechYT](https://img.shields.io/badge/Connect-Telegram-red?style=flat&logo=telegram)](https://telegram.dog/Mrk_yt)
 
