@@ -53,7 +53,9 @@ MAINCHANNEL ID    :- [Click Here](https://telegram.dog/ChannelIDHEXbot)
 
 TG BOT TOKEN      :- [Click Here](https://telegram.dog/BotFather) 
 
-TG USER SESSION   :- [Click Here](https://telegram.dog/PyrogramStringBot) or [Click Here](https://repl.it/@prgofficial/String-Gen)
+TG USER SESSION   :- Click👈 ഈ ക്ലിക്ൽ ബട്ടൺ വർക്കിംഗ്‌ അല്ല  || ഈ വീഡിയോ കണ്ട് User Session എങ്ങനെ എടുക്കാമെന്ന് കാണുക [Video Link](https://youtu.be/WUN_12-dYOM)
+
+                  :- [Click Here](https://repl.it/@prgofficial/String-Gen) 👈 ഇത് വർക്കിംഗ്‌ ആണ്. 😁
 
 ## You can check the video tutorial on how to deploy
 
