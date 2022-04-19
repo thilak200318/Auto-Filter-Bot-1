@@ -9,7 +9,7 @@
         "MoTechYT"
     ],
     "website": "https://github.com/MRK-YT/",
-    "repository": "https://github.com/MRK-YT/Auto-Filter-Bot",
+    "repository": "https://github.com/thilak200318/Auto-Filter-Bot-1/edit/main/app.json",
     "success_url": "https://telegram.dog/Mo_Tech_YT",
     "env": {
         "TG_BOT_TOKEN": {
